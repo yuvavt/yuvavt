@@ -11,7 +11,6 @@
 - 👨🏽‍💻 Alumni of Virginia Tech. Pursued my Master's Degree in Computer Science
 - 🔭 I’m working as a Cloud DevOps and Infrastructure Engineer for Dollar Tree
 - 👾 I’m looking for opportunities to contribute to opensource
-- 😄 Pronouns: she/her
 
 <!--
 **yuvavt/yuvavt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
