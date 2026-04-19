@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/yuvavt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuva-sri-vemulapalli-9136b118b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/avuy/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=firefox)](https://animated-portfolio-zp3k.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=firefox)](https://yuvavt.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vemulapalliyuvasri@gmail.com)
 
 ## About Me
